@@ -5,14 +5,14 @@
 <h1 align="center">Hello - Hallo - Glad to see you here!</h1>
 
 <p align="center">
-  I'm Julian, a 34 year old TypeScript developer from Germany 🇩🇪
+  I'm John, a 34 year old Cloud-Engineering-Student from Germany 🇩🇪
 </p>
 <p align="center">
-  👀 Into Fullstack-Development & DevOps  - ♥️ In love with
-  TypeScript
+  👀 Into Copywriting and AWS Cloud - ♥️ In love with
+  Docker
 </p>
 <p align="center">
-  🚀 Dealing with Sveltekit - 🤓 Feel free to ask, I am glad if I can help - 🌴
+  🚀 - 🤓 Feel free to ask, I am glad if I can help - 🌴
   Hip-Hop Listener
 </p>
 
