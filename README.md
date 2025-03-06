@@ -39,9 +39,7 @@ I'm John from Germany 🇩🇪. My journey in tech started with a fascination fo
 I enjoy the challenge of streamlining processes, making tech accessible, and creating impactful content that resonates with people. Whether it's through writing or coding, my goal is to build solutions that work.
 <br />
 
-<div align="center">
-  <img width="100%" src="sunlight-landscape-forest-mountains-lake-nature-reflection-clouds-morning-mist-national-park-valley-mountain-pass-wilderness-Alps-ridge-cloud-tree-autumn-leaf-mountain-meadow-atmospheric-phenomenon-woody-plant-mountainous-landforms-landform.jpg"
-   />
+
 </div>
 
 
