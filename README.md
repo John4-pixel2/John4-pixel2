@@ -92,7 +92,7 @@ I’m always open to networking, collaborating on projects, or discussing new id
 
 <div align="center">
   
-**Click here on the Buttom to my LinkedIn**:
+**Click here on the Button to my LinkedIn**:
 
   </div>
 <div align="center">
